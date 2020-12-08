@@ -78,7 +78,7 @@ n = 5  # het aantal keer dat je het experiment doet
 p = 2 / 10  # de kans (kans op een vraag juist  )
 k = 2  # aantal keer dat je wil dat het experiment de waarde oplevert (2 vragen juist)
 
-kansop_2van5_juist = binom.pmf(x, n, p)
+kansop_2van5_juist = binom.pmf(k, n, p)
 print("Binom kans op 2/5 juist")
 print(kansop_2van5_juist)
 
