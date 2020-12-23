@@ -7,6 +7,13 @@ from scipy.stats import binom
 
 
 
+
+
+
+
+
+
+
 #### Bereken standaard afwijking ###
 
 ## De standaardafwijking of standaarddeviatie
